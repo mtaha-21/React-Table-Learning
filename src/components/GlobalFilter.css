@@ -1,0 +1,45 @@
+.styl{
+    margin-top: auto;
+    /* background-color: aqua; */
+    /* outline: 0;
+    border-width: 0 0 2px; */
+    /* border-color: grey; */
+    /* width: 18rem; */
+    height: 2rem;
+    margin-right: 55rem;
+}
+.inpt{
+    outline: 0;
+    border-width: 0 0 2px;
+    width: 16rem;
+}
+span.cstyl{
+    border-radius: 40%;
+    padding: 3px;
+    background-color: rgb(94, 158, 255);
+}
+.cmpnystyl{
+   outline: 0;
+    border-width: 0 0 2px;
+    width: 16rem;
+    width: 16rem;
+    margin-right: 16rem;
+}
+.inptscnd{
+    outline: 0;
+    border-width: 0 0 2px;
+    width: 16rem;
+}
+select{
+    border: none;
+}
+.inptstylscnd{
+    /* width: 16rem; */
+    margin-right: 37rem;
+}
+.inptthird{
+    outline: 0;
+    border-width: 0 0 2px;
+    width: 12rem;
+    margin-top: 1.5rem;
+}
